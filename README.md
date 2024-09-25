@@ -18,3 +18,6 @@ https://docs.google.com/document/d/11PeXW34SowgaRHE_heJ7QmdzBjjpWfyEao3d21ZPlQs/
 
 **Petmera pitch (needs to be redone)**
 https://www.figma.com/design/YBpQVxoUzFLPyclplHLNFn/Pitch?t=POq7BLPsEDBMNhet-0
+
+**Petmera Diluted Capitalization Table**
+https://docs.google.com/spreadsheets/d/1Ol02Z1iKvYliTqXKWXzqepU1f6Wq3GKzZWCnBQ1KDss/edit?gid=669170734#gid=669170734
